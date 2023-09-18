@@ -1,0 +1,12 @@
+FFMPEG commands that might be useful:
+
+
+Split Video To Frames (do this in the "frames" folder):
+ffmpeg -r 30 -i input.mp4 frame%4d.png
+
+Convert Frames Back To Video (do this in the "out" folder):
+ffmpeg -r 30 -i frame%4d.png -vcodec libx264 -pix_fmt yuv420p out.mp4
+
+
+
+(Obviously FFMPEG must be installed for this to work)
