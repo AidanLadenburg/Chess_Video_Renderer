@@ -1,7 +1,7 @@
 # Chess Video Renderer
 Convert Video Into Chess Boards 
 
-
+### (very compressed) Example Conversion:
 https://github.com/AidanLadenburg/Chess_Video_Renderer/assets/43151719/2dc4c2d3-1c91-4444-88fe-505d10126104
 
 https://github.com/AidanLadenburg/Chess_Video_Renderer/assets/43151719/a5cf4fd5-546a-43ee-9373-31cefe74bdeb
