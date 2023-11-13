@@ -1,5 +1,12 @@
 # Chess Video Renderer
- Convert Video Into Chess Boards 
+Convert Video Into Chess Boards 
+
+
+https://github.com/AidanLadenburg/Chess_Video_Renderer/assets/43151719/6599c3b3-baa7-4330-89e8-76c8b55a0e58 https://github.com/AidanLadenburg/Chess_Video_Renderer/assets/43151719/2ab8e5e3-04f1-4a75-a363-bd814f62e5cd
+
+
+
+
 
 Here are some basic instructions on how to convert a video:  
 1) Create "frames" and "out" folders 
