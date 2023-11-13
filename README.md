@@ -2,7 +2,9 @@
 Convert Video Into Chess Boards 
 
 
-https://github.com/AidanLadenburg/Chess_Video_Renderer/assets/43151719/6599c3b3-baa7-4330-89e8-76c8b55a0e58 https://github.com/AidanLadenburg/Chess_Video_Renderer/assets/43151719/2ab8e5e3-04f1-4a75-a363-bd814f62e5cd
+https://github.com/AidanLadenburg/Chess_Video_Renderer/assets/43151719/6599c3b3-baa7-4330-89e8-76c8b55a0e58 
+
+https://github.com/AidanLadenburg/Chess_Video_Renderer/assets/43151719/2ab8e5e3-04f1-4a75-a363-bd814f62e5cd
 
 
 
